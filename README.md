@@ -1,0 +1,2 @@
+# OSW_Data
+This data comprises: (i) 10-min wind speed measurements in the NY/NJ Bight, spanning 11/01/2019 to 12/31/2019, at two buoys (E05 and E06) deployed by NYSERDA. Original data obtained from: https://oswbuoysny.resourcepanorama.dnvgl.com/ ; (ii) Co-located NWP forecasts of wind speed, along with other meteorological variables, from the RU-WRF model. Original data from: https://rucool.marine.rutgers.edu/data/meteorological-modeling/ruwrf-mesoscale-meteorological-model-forecast/ 
